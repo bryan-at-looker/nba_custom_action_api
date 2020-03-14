@@ -1,0 +1,8 @@
+.env
+v
+.git
+.vscode
+.backup.main.py
+node_modules
+package-lock.json
+.serverless
