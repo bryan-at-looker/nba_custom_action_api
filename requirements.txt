@@ -6,4 +6,4 @@ idna==2.9
 looker-sdk==0.1.3b8
 requests==2.23.0
 typing-extensions==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
